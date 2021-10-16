@@ -8,7 +8,7 @@ Projeto medicenter do curso B7web para treino de layouts.
 
 ### 💻 Tecnologias utilizadas
 
-Nesta calculadora foi utilizadas as seguintes tecnologias:
+Nesta projeto foi utilizadas as seguintes tecnologias:
 
 - HTML
 - CSS (Flexbox e Responsividade)
